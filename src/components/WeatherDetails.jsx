@@ -46,11 +46,11 @@ const WeatherDetails = ({ weatherData }) => {
             <p className="temp-title">Temperature</p>
             {isCelsius ? (
               <h3 className="temp" onClick={() => setIsCelsius(false)}>
-                {weatherData?.current?.temp_c + "°C"}{" "}
+                {Math.round(weatherData?.current?.temp_c) + "°C"}{" "}
               </h3>
             ) : (
               <h3 className="temp" onClick={() => setIsCelsius(true)}>
-                {weatherData?.current?.temp_f + "°F"}{" "}
+                {Math.round(weatherData?.current?.temp_f) + "°F"}{" "}
               </h3>
             )}
           </div>
