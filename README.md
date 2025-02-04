@@ -19,3 +19,7 @@ Steps Followed:
 10. Most of my time was spent on figuring out how to make API calls and display data properly. Additionally, I focused on handling errors effectively to ensure a smooth user experience.
  
 Vercel Deployment Link: https://weather-pearl-gamma.vercel.app/
+
+Demo Video:
+
+<div style="position: relative; padding-bottom: 42.8125%; height: 0;"><iframe src="https://www.loom.com/embed/7168782ba58744dfa0f1365bcd822628?sid=d6224bb4-a6c4-4852-96e8-68908e03ed16" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
