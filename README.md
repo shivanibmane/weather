@@ -17,3 +17,5 @@ Steps Followed:
 8. Pushed to GitHub – Uploaded the project repository to GitHub.
 9. Deployed on Vercel – Deployed the project to Vercel for public access.
 10. Most of my time was spent on figuring out how to make API calls and display data properly. Additionally, I focused on handling errors effectively to ensure a smooth user experience.
+ 
+Vercel Deployment Link: https://weather-pearl-gamma.vercel.app/
